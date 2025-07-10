@@ -6,7 +6,7 @@
 * [Link do reposiório](https://github.com/luizfaria1989/2025.1-CallOfCthulhu)
 
 ## Engenharia de Requisitos Para o Aplicativo DeepSeek
-* Descrição: Para a disciplina de Requisitos de Software, eu e meu grupo decidimos estudar o aplicativo de IA DeepSeek. Fizemos a elicitação e priorização de requisitos com base nas técnicas aprendidas em sala de aula, trabalhamos com a modelagem de requisitos com técnicas tradicionais (como a criação de cenários e diagramas de casos de uso) e também com as técnicas agéis (como histórias de usuário e backlog). Além disso, foram desenvolvidos protótipos para alguns dos requisitos funcionais que não foram implementados no aplicaitov. O trabalho está dividido em entregas e com hiperlinks nos tópicos importantes, permitindo uma navegação fluída entre todo o projeto.
+* Descrição: Para a disciplina de Requisitos de Software, eu e meu grupo decidimos estudar o aplicativo de IA DeepSeek. Fizemos a elicitação e priorização de requisitos com base nas técnicas aprendidas em sala de aula, trabalhamos com a modelagem de requisitos com técnicas tradicionais (como a criação de cenários e diagramas de casos de uso) e também com as técnicas agéis (como histórias de usuário e backlog). Além disso, foram desenvolvidos protótipos para alguns dos requisitos funcionais que não foram implementados no aplicativo. O trabalho está dividido em entregas e com hiperlinks nos tópicos importantes, permitindo uma navegação fluída entre todo o projeto.
 * Tecnologias utilizadas: MKDocs.
 * [Link do repositório](https://github.com/luizfaria1989/2025.1-Deepseek)
 
