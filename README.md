@@ -1,6 +1,6 @@
-<h1 align="center">Luiz Guilherme Faria</h1>
+<h1 align="left">Luiz Guilherme Faria</h1>
 
-<p align="center">
+<p align="left">
 Estudante de Engenharia de Software na Universidade de Brasília (UnB/FCTE). Tenho particular interesse em compreender os fundamentos por trás das tecnologias que utilizo — de redes neurais implementadas do zero a compiladores e estruturas de dados construídos sem o auxílio de bibliotecas prontas. Desenvolvo majoritariamente em <b>C++</b> e <b>Python</b>, com ênfase em Inteligência Artificial, algoritmos e sistemas.
 </p>
 
@@ -13,25 +13,25 @@ Estudante de Engenharia de Software na Universidade de Brasília (UnB/FCTE). Ten
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks e Bibliotecas**
-
+ 
 ![Eigen](https://img.shields.io/badge/Eigen-AB2B28?style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flex & Bison](https://img.shields.io/badge/Flex_%26_Bison-005599?style=for-the-badge)
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+ 
 **Ferramentas e Infraestrutura**
-
+ 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
 ---
 
@@ -102,32 +102,19 @@ Projeto de uma plataforma de delivery voltada a estabelecimentos próximos à FC
 Documentação completa de engenharia de requisitos aplicada ao aplicativo Deepseek, abrangendo técnicas de elicitação, modelagem e análise de requisitos.
 `MkDocs` · `Engenharia de Requisitos`
 
----
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizfaria1989&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=luizfaria1989&theme=radical" alt="Sequência de contribuições" />
-</p>
-
----
-
-## Contato
-
-Estou à disposição para colaborações, oportunidades e troca de conhecimento. Os canais abaixo encontram-se disponíveis para contato:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](INSIRA_AQUI_O_LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:INSIRA_AQUI_O_SEU_EMAIL)
-[![Lattes](https://img.shields.io/badge/Currículo_Lattes-005CA9?style=for-the-badge&logo=academia&logoColor=white)](INSIRA_AQUI_O_LINK_DO_SEU_LATTES)
-
 <!--
   Lembrete: substitua os placeholders acima pelos seus links reais:
   - LinkedIn: troque INSIRA_AQUI_O_LINK_DO_SEU_LINKEDIN pela URL do seu perfil
   - E-mail:   troque INSIRA_AQUI_O_SEU_EMAIL pelo seu endereço de e-mail
   - Lattes:   troque INSIRA_AQUI_O_LINK_DO_SEU_LATTES pela URL do seu currículo
+
+  ## Contato
+
+  Estou à disposição para colaborações, oportunidades e troca de conhecimento. Os canais abaixo encontram-se disponíveis para contato:
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](INSIRA_AQUI_O_LINK_DO_SEU_LINKEDIN)
+  [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:INSIRA_AQUI_O_SEU_EMAIL)
+  [![Lattes](https://img.shields.io/badge/Currículo_Lattes-005CA9?style=for-the-badge&logo=academia&logoColor=white)](INSIRA_AQUI_O_LINK_DO_SEU_LATTES)
+  
 -->
 
